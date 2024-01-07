@@ -2,9 +2,9 @@
 
 ### Testes Unitários com node.js.
 
-### Hoje o problema: 
+ Hoje o problema: 
 
-Os CLIENTES, precisam realizar AGENDAMENTOS
+"Os CLIENTES, precisam realizar AGENDAMENTOS
 só que eles não conseguem saber os HORÁRIOS
-disponíveis que eu tenho.
+disponíveis."
 
