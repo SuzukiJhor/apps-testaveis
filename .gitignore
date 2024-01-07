@@ -1,0 +1,44 @@
+# Módulos Node.js
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Arquivos temporários
+*.tmp
+
+# Arquivos de compilação
+dist/
+build/
+out/
+
+# Arquivos de configuração locais
+.env
+
+# Arquivos de dependências
+package-lock.json
+package.json
+yarn.lock
+
+# Dependências específicas de desenvolvimento
+devDependencies/
+
+# Arquivos de usuário
+*.iml
+.idea/
+.vscode/
+
+# Arquivos de cache
+.npm/
+.npmignore
+
+# Arquivos de cobertura de código
+coverage/
+
+# Arquivos de produção
+.DS_Store
+Thumbs.db
+
+.eslintrc.json
+.eslintrc
