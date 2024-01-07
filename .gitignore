@@ -39,9 +39,3 @@ coverage/
 # Arquivos de produção
 .DS_Store
 Thumbs.db
-
-/.eslintrc.json
-.eslintrc.json
-.eslintrc
-
-.gitignore
