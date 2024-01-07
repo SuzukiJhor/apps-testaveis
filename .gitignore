@@ -40,5 +40,8 @@ coverage/
 .DS_Store
 Thumbs.db
 
+/.eslintrc.json
 .eslintrc.json
 .eslintrc
+
+.gitignore
