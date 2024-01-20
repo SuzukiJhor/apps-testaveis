@@ -4,7 +4,7 @@
 
  Hoje o problema: 
 
-"Os CLIENTES, precisam realizar AGENDAMENTOS
+- Os CLIENTES, precisam realizar AGENDAMENTOS
 só que eles não conseguem saber os HORÁRIOS
-disponíveis."
+disponíveis.
 
